@@ -1,0 +1,25 @@
+{
+  "jokes.json" :[
+    {
+      "title": "Joke 1",
+      "joke": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "title": "Joke 2",
+      "joke": "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!"
+    },
+    {
+      "title": "Joke 3",
+      "joke": "I'm reading a book about anti-gravity. It's impossible to put down!"
+    },
+    {
+      "title": "Joke 4",
+      "joke": "I used to be a baker, but I couldn't make enough dough."
+    },
+    {
+      "title": "Joke 5",
+      "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    }
+  ]
+
+}
